@@ -1,0 +1,13 @@
+hello how did it happened
+i have no clue
+still how to get this vim command file to insert mode
+to save the file i know its :wp after an esc command
+to quit its :q! 
+but how to get it to insert mode still am having confusion
+and also i am able to touch type with my left hand properly but in my right hand am still confusing
+maybe this weekend i have to work on the type master again to get my right hand also like left hand
+maybe this is because of the extra keys on the right side 
+still have to work on the number typing
+also i am liking to type on this particular keyboard
+`sorry its not :wp to quit its :wq
+`
